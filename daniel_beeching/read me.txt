@@ -1,0 +1,15 @@
+Thank you for downloading this package.
+
+To view these apps/ webpages you will need to host them locally with a local server such as Xamp.
+
+The package contains two folders;
+
+// JQuery //
+
+A folder containing a single page responsive web page with varius JQuery modules included.
+
+// Angular //
+
+A working example of a navigation system for single page web application with Angular.js, this was created using Angular modules.
+
+ 
